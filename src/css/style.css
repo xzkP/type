@@ -1,0 +1,31 @@
+@font-face {
+	font-family: "Iosevka";
+	src: src("./iosevka-regular.ttf");
+}
+
+@font-face {
+	font-family: "Roboto Mono";
+	src: src("./Roboto.ttf");
+}
+
+
+body {
+	background-color: #00021b;
+	color: #f000ff;
+	font-family: "Roboto Mono";
+	font-size: 18px;
+	max-width: 60%;
+	margin: auto;
+}
+
+.center {
+	padding-top: 40%;
+}
+
+.textbox {
+	text-align: center;
+}
+
+.character {
+	font-size: 18px;
+}
